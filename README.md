@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Filip and I'm a Bulgaria, but have studied/is currently studying in Germany.</p>
+<p align="left">My name is Filip and I'm a Bulgaria, but am currently finishing my studies in Germany.</p>
 
 ###
 
