@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> I am interested in data and have been working on different projects in that area for about an year and a half. <br> I am currently finishing my Master's degree and looking for starting a position in Data Science.
+<p align="left"> I am interested in data and have been working on different projects in that area for about an year and a half. <br> I have recently completed my Master's degree and looking for starting a position in Data Science.
 
 ## Certifications
 - DataCamp Data Scientist Certification  
